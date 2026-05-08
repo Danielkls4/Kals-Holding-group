@@ -1,0 +1,24 @@
+{
+  "name": "kalsholg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielkls4/Kals-Holding-group.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Danielkls4/Kals-Holding-group/issues"
+  },
+  "homepage": "https://github.com/Danielkls4/Kals-Holding-group#readme",
+  "dependencies": {
+    "nodemailer": "^8.0.7"
+  }
+}
